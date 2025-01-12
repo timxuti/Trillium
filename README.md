@@ -1,2 +1,2 @@
 # Trillium
-Open Sourced Industrial 6DOF Robotic Arm
+WIP (Started work 1/11/2025)
