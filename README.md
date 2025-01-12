@@ -1,2 +1,2 @@
 # Trillium
-Industrial 6DOF Robotic Arm
+Open Sourced Industrial 6DOF Robotic Arm
